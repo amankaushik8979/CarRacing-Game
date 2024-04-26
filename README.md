@@ -1,2 +1,2 @@
 # CarRacing-Game
-This is my first game in java which I built and helped to understand many more things and helped me to gain a new skill for me.
+Car Racing Game is an exciting 2D car racing game developed using Java programming language. The game provides an immersive experience of high-speed racing with thrilling challenges and unexpected challenges given by opponents car. The cars are randomly out anywhere and you have to dodge the opponent's car and set the highest score which can be possible . When you crash with the opponent's car the game stops and restarts with new random positions . The game will give you a thrilling experience and will be very fun while playing .
